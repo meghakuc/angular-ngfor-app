@@ -1,0 +1,17 @@
+<h1 class ="title">{{title}}</h1>
+<div class="container">
+    <table class="table table-striped">
+		<thead>
+			<tr>
+			  <th>Artist Name</th>
+			  <th>Status</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let celeb of actors">
+			   <td>{{ celeb.artist }}</td>
+			   <td>{{ celeb.status }}</td>
+		   </tr>
+	   </tbody>
+   </table>
+</div>
