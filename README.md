@@ -1,3 +1,5 @@
+Here is the link of article: https://www.linkedin.com/pulse/ngfor-usage-angular-example-megha-kuchchal
+
 # AngularNgforApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
